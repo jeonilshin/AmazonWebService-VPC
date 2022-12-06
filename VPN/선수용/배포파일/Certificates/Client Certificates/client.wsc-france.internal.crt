@@ -1,0 +1,85 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            62:ae:f3:0a:cd:86:91:10:f3:b4:68:48:1b:10:46:4c
+        Signature Algorithm: sha256WithRSAEncryption
+        Issuer: CN=*.wsc-france.internal
+        Validity
+            Not Before: May 17 05:28:23 2022 GMT
+            Not After : Aug 19 05:28:23 2024 GMT
+        Subject: CN=client.wsc-france.internal
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                RSA Public-Key: (2048 bit)
+                Modulus:
+                    00:b4:e6:5c:c6:b7:bc:6b:98:8d:0d:fc:3a:28:73:
+                    19:aa:ce:99:e7:63:ab:4c:aa:c1:08:b5:6d:5a:fa:
+                    77:35:b5:c6:72:f0:1e:68:56:7f:d7:25:3c:24:ed:
+                    af:94:bf:40:95:d2:3b:5a:b1:6f:0f:1f:3c:bf:fb:
+                    ec:f2:b5:a4:ac:79:31:55:4d:4c:bb:17:92:58:2b:
+                    7b:df:61:36:5f:8a:f0:ee:ff:fd:c8:72:e0:29:5c:
+                    20:35:78:dc:72:d3:86:0b:d2:54:cb:96:15:8d:aa:
+                    c0:db:9b:c8:4b:b9:66:f5:52:0e:de:42:fe:cf:73:
+                    8f:e2:13:d9:d6:3e:2a:d6:6e:f1:b3:80:a7:cf:77:
+                    cf:dd:4b:4a:c0:eb:34:25:4f:2c:e0:ce:a1:7a:fe:
+                    5e:5a:19:83:6b:bc:a0:df:a1:da:6f:a1:0f:7a:a2:
+                    e4:c6:47:4d:86:35:77:ca:f3:25:92:02:fe:e3:cf:
+                    d6:c5:86:3b:c4:c2:37:59:56:3c:18:9d:52:64:d2:
+                    0a:ed:44:a4:dd:ab:cd:c9:33:70:4b:74:a7:5d:45:
+                    81:f2:6f:77:7f:7a:f5:6b:6e:f9:66:96:c7:fb:83:
+                    1f:43:e3:3b:96:e4:83:9d:93:c7:a4:da:c7:99:ca:
+                    c5:5f:5c:fa:5b:b3:f2:56:6c:89:be:63:79:d5:0d:
+                    4c:c9
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: 
+                CA:FALSE
+            X509v3 Subject Key Identifier: 
+                F5:BC:66:42:0D:43:AC:A6:F2:52:F2:1C:43:25:B4:A3:78:4A:06:FE
+            X509v3 Authority Key Identifier: 
+                keyid:B2:AC:0F:F1:1D:2A:5A:5C:A3:A8:7E:A1:F7:EE:E2:9F:31:36:4A:6A
+                DirName:/CN=*.wsc-france.internal
+                serial:3D:5B:DD:4D:32:0F:A8:91:74:3A:00:E8:B4:D0:97:68:5C:2C:E9:2D
+
+            X509v3 Extended Key Usage: 
+                TLS Web Client Authentication
+            X509v3 Key Usage: 
+                Digital Signature
+    Signature Algorithm: sha256WithRSAEncryption
+         73:b6:f7:03:49:e3:60:94:f8:df:91:5e:50:89:2e:fc:3a:87:
+         ca:50:29:96:be:d1:83:b5:38:84:a0:c0:81:2c:26:4d:5a:8c:
+         2e:2f:a1:46:a0:a0:64:ee:3d:db:3a:29:d1:e7:72:b6:54:19:
+         21:21:05:e5:49:53:e1:0b:d0:ab:03:f3:ac:7a:23:ca:3b:96:
+         e1:5f:4b:ae:8f:63:cc:ba:48:0b:a5:c0:92:15:7a:4b:7d:1f:
+         79:53:ca:12:b6:81:52:8f:56:26:50:20:ba:c8:ca:1e:55:6e:
+         cd:47:50:f4:8d:b8:58:a9:54:92:f5:1a:89:4d:90:4c:0d:cc:
+         98:d6:55:0b:34:26:cd:30:2f:c7:4e:bd:06:52:f4:a3:8e:d6:
+         5c:ae:e7:10:8a:cd:80:d7:69:a1:4d:1c:bd:a5:64:45:58:77:
+         5b:81:82:36:fe:b0:46:ef:67:80:df:89:93:25:3b:35:bb:34:
+         d3:e2:d4:95:14:cd:c7:1d:f7:d2:71:b0:28:48:8d:76:77:d0:
+         8b:d6:ea:a3:31:0f:14:b9:16:67:c6:d7:7b:3f:42:86:d6:38:
+         a4:90:a2:00:ed:03:b5:ba:26:38:68:b7:84:06:8c:4a:55:aa:
+         9d:42:4a:e2:84:ea:04:c9:95:fc:6c:65:c2:33:50:53:dd:b4:
+         11:48:6f:e9
+-----BEGIN CERTIFICATE-----
+MIIDfDCCAmSgAwIBAgIQYq7zCs2GkRDztGhIGxBGTDANBgkqhkiG9w0BAQsFADAg
+MR4wHAYDVQQDDBUqLndzYy1mcmFuY2UuaW50ZXJuYWwwHhcNMjIwNTE3MDUyODIz
+WhcNMjQwODE5MDUyODIzWjAlMSMwIQYDVQQDDBpjbGllbnQud3NjLWZyYW5jZS5p
+bnRlcm5hbDCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBALTmXMa3vGuY
+jQ38OihzGarOmedjq0yqwQi1bVr6dzW1xnLwHmhWf9clPCTtr5S/QJXSO1qxbw8f
+PL/77PK1pKx5MVVNTLsXklgre99hNl+K8O7//chy4ClcIDV43HLThgvSVMuWFY2q
+wNubyEu5ZvVSDt5C/s9zj+IT2dY+KtZu8bOAp893z91LSsDrNCVPLODOoXr+XloZ
+g2u8oN+h2m+hD3qi5MZHTYY1d8rzJZIC/uPP1sWGO8TCN1lWPBidUmTSCu1EpN2r
+zckzcEt0p11FgfJvd3969Wtu+WaWx/uDH0PjO5bkg52Tx6Tax5nKxV9c+luz8lZs
+ib5jedUNTMkCAwEAAaOBrDCBqTAJBgNVHRMEAjAAMB0GA1UdDgQWBBT1vGZCDUOs
+pvJS8hxDJbSjeEoG/jBbBgNVHSMEVDBSgBSyrA/xHSpaXKOofqH37uKfMTZKaqEk
+pCIwIDEeMBwGA1UEAwwVKi53c2MtZnJhbmNlLmludGVybmFsghQ9W91NMg+okXQ6
+AOi00JdoXCzpLTATBgNVHSUEDDAKBggrBgEFBQcDAjALBgNVHQ8EBAMCB4AwDQYJ
+KoZIhvcNAQELBQADggEBAHO29wNJ42CU+N+RXlCJLvw6h8pQKZa+0YO1OISgwIEs
+Jk1ajC4voUagoGTuPds6KdHncrZUGSEhBeVJU+EL0KsD86x6I8o7luFfS66PY8y6
+SAulwJIVekt9H3lTyhK2gVKPViZQILrIyh5Vbs1HUPSNuFipVJL1GolNkEwNzJjW
+VQs0Js0wL8dOvQZS9KOO1lyu5xCKzYDXaaFNHL2lZEVYd1uBgjb+sEbvZ4DfiZMl
+OzW7NNPi1JUUzccd99JxsChIjXZ30IvW6qMxDxS5FmfG13s/QobWOKSQogDtA7W6
+Jjhot4QGjEpVqp1CSuKE6gTJlfxsZcIzUFPdtBFIb+k=
+-----END CERTIFICATE-----
